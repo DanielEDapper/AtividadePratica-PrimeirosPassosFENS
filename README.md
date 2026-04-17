@@ -11,3 +11,7 @@ Aprender a usar o GitHub para versionamento de código.
 - Git
 - GitHub
 - Versionamento
+
+## Melhorias futuras
+- Aprender mais sobre Git
+- Explorar projetos open source
